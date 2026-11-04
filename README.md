@@ -17,6 +17,11 @@ decides how it is listed:
 #>
 ```
 
+Each organization's list is `maintenance/orgs/<NinjaOne organization id>.txt`: one script path per
+line, `#` for comments. An organization without a list sees every script. The lists were picked from
+each organization's tickets (Nov 2025 - Nov 2026): a fix is listed when 2 or more tickets were about
+its problem.
+
 Exit code 0 = success. Scripts run hidden and non-interactive, so they can't prompt.
 
 > **Everything merged to `main` runs as SYSTEM on every device that shows the list.**

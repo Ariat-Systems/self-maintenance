@@ -1,0 +1,5 @@
+# Immanuel Lutheran Church (NinjaOne organization 14)
+# Picked from its tickets, Nov 2025 - Nov 2026: a fix is listed when 2 or more tickets were about its problem.
+Office/Repair-Office.ps1                 # Office: 3 tickets
+Network/Repair-InternetConnection.ps1    # internet: 2 tickets
+Network/Reconnect-NetworkDrives.ps1      # network drives: 2 tickets

@@ -1,0 +1,9 @@
+# MEJ & Associates (NinjaOne organization 25)
+# Picked from its tickets, Nov 2025 - Nov 2026: a fix is listed when 2 or more tickets were about its problem.
+Email/Repair-Outlook.ps1                 # Outlook: 7 tickets
+Performance/Speed-UpComputer.ps1         # slow computer: 6 tickets
+Network/Clear-DnsCache.ps1               # websites: 6 tickets
+Office/Repair-Office.ps1                 # Office: 5 tickets
+Network/Repair-InternetConnection.ps1    # internet: 4 tickets
+Printing/Restart-PrintSpooler.ps1        # printing: 4 tickets
+Network/Reconnect-NetworkDrives.ps1      # network drives: 2 tickets

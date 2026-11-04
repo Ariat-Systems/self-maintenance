@@ -1,0 +1,9 @@
+# Whitehead Wilson (NinjaOne organization 27)
+# Picked from its tickets, Nov 2025 - Nov 2026: a fix is listed when 2 or more tickets were about its problem.
+Network/Repair-InternetConnection.ps1    # internet: 4 tickets
+Email/Repair-Outlook.ps1                 # Outlook: 3 tickets
+Disk/Free-DiskSpace.ps1                  # disk full: 3 tickets
+Disk/Clear-TempFiles.ps1                 # disk/slow: 3 tickets
+Network/Reconnect-NetworkDrives.ps1      # network drives: 2 tickets
+Office/Repair-Office.ps1                 # Office: 2 tickets
+Printing/Restart-PrintSpooler.ps1        # printing: 2 tickets
