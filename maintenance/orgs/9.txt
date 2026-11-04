@@ -1,0 +1,6 @@
+# Davey Plumbing (NinjaOne organization 9)
+# Picked from its tickets, Nov 2025 - Nov 2026: a fix is listed when 2 or more tickets were about its problem.
+Printing/Restart-PrintSpooler.ps1        # printing: 8 tickets
+Network/Reconnect-NetworkDrives.ps1      # network drives: 5 tickets
+Network/Repair-InternetConnection.ps1    # internet: 4 tickets
+Office/Repair-Office.ps1                 # Office: 3 tickets

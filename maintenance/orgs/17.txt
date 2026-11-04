@@ -1,0 +1,11 @@
+# McElroy, Sullivan, Miller & Weber, L.L.P. (NinjaOne organization 17)
+# Picked from its tickets, Nov 2025 - Nov 2026: a fix is listed when 2 or more tickets were about its problem.
+Network/Reconnect-NetworkDrives.ps1      # network drives: 21 tickets
+Disk/Clear-TempFiles.ps1                 # disk/slow: 15 tickets
+Network/Repair-InternetConnection.ps1    # internet: 11 tickets
+Performance/Speed-UpComputer.ps1         # slow computer: 11 tickets
+Printing/Restart-PrintSpooler.ps1        # printing: 10 tickets
+Email/Repair-Outlook.ps1                 # Outlook: 8 tickets
+Office/Repair-Office.ps1                 # Office: 8 tickets
+Network/Clear-DnsCache.ps1               # websites: 7 tickets
+Disk/Free-DiskSpace.ps1                  # disk full: 6 tickets

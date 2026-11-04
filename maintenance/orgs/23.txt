@@ -1,0 +1,10 @@
+# TBB Law (NinjaOne organization 23)
+# Picked from its tickets, Nov 2025 - Nov 2026: a fix is listed when 2 or more tickets were about its problem.
+Disk/Clear-TempFiles.ps1                 # disk/slow: 15 tickets
+Email/Repair-Outlook.ps1                 # Outlook: 10 tickets
+Performance/Speed-UpComputer.ps1         # slow computer: 10 tickets
+Disk/Free-DiskSpace.ps1                  # disk full: 7 tickets
+Network/Reconnect-NetworkDrives.ps1      # network drives: 7 tickets
+Printing/Restart-PrintSpooler.ps1        # printing: 7 tickets
+Network/Repair-InternetConnection.ps1    # internet: 5 tickets
+Office/Repair-Office.ps1                 # Office: 4 tickets

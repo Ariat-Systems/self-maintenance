@@ -1,0 +1,9 @@
+# Burnett & Turner Law (NinjaOne organization 8)
+# Picked from its tickets, Nov 2025 - Nov 2026: a fix is listed when 2 or more tickets were about its problem.
+Printing/Restart-PrintSpooler.ps1        # printing: 12 tickets
+Network/Repair-InternetConnection.ps1    # internet: 8 tickets
+Performance/Speed-UpComputer.ps1         # slow computer: 8 tickets
+Network/Clear-DnsCache.ps1               # websites: 8 tickets
+Disk/Clear-TempFiles.ps1                 # disk/slow: 7 tickets
+Email/Repair-Outlook.ps1                 # Outlook: 6 tickets
+Office/Repair-Office.ps1                 # Office: 5 tickets

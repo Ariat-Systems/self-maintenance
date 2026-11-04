@@ -1,0 +1,10 @@
+# Beehive Specialty (NinjaOne organization 26)
+# Picked from its tickets, Nov 2025 - Nov 2026: a fix is listed when 2 or more tickets were about its problem.
+Disk/Clear-TempFiles.ps1                 # disk/slow: 6 tickets
+Email/Repair-Outlook.ps1                 # Outlook: 5 tickets
+Performance/Speed-UpComputer.ps1         # slow computer: 5 tickets
+Network/Repair-InternetConnection.ps1    # internet: 4 tickets
+Disk/Free-DiskSpace.ps1                  # disk full: 4 tickets
+Office/Repair-Office.ps1                 # Office: 4 tickets
+Network/Clear-DnsCache.ps1               # websites: 3 tickets
+Printing/Restart-PrintSpooler.ps1        # printing: 2 tickets

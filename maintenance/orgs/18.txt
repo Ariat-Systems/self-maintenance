@@ -1,0 +1,4 @@
+# CelLink (NinjaOne organization 18)
+# Picked from its tickets, Nov 2025 - Nov 2026: a fix is listed when 2 or more tickets were about its problem.
+Disk/Free-DiskSpace.ps1                  # disk full: 57 tickets
+Disk/Clear-TempFiles.ps1                 # disk/slow: 57 tickets

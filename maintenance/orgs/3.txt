@@ -1,0 +1,9 @@
+# Covenant Presbyterian Church (NinjaOne organization 3)
+# Picked from its tickets, Nov 2025 - Nov 2026: a fix is listed when 2 or more tickets were about its problem.
+Printing/Restart-PrintSpooler.ps1        # printing: 11 tickets
+Email/Repair-Outlook.ps1                 # Outlook: 9 tickets
+Network/Repair-InternetConnection.ps1    # internet: 8 tickets
+Performance/Speed-UpComputer.ps1         # slow computer: 7 tickets
+Office/Repair-Office.ps1                 # Office: 7 tickets
+Network/Clear-DnsCache.ps1               # websites: 7 tickets
+Disk/Clear-TempFiles.ps1                 # disk/slow: 4 tickets
